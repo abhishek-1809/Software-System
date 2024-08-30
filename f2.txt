@@ -1,8 +1,0 @@
-Hi
-I am Abhishek
-We declare a FILE pointer fp to represent the file.
-We specify the file name ("example.txt") and a buffer (buffer) to store each line.
-We open the file in read-only mode ("r") using fopen. If the file cannot be opened, we print an error message and exit.
-We enter a loop that reads lines from the file using fgets. The loop continues until fgets returns NULL, indicating the end of file.
-Inside the loop, we print each line using printf.
-After the loop, we close the file using fclose.

@@ -3,7 +3,7 @@
 Name : 7.c
 Author : Abhishek Sahu
 Description : Write a program to copy file1 into file2 ($cp file1 file2).
-Date: 29th Aug, 2024.
+Date: 22th Aug, 2024.
 ============================================================================
 */
 #include<stdio.h>

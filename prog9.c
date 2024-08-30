@@ -12,7 +12,7 @@ Description : Write a program to print the following information about a given f
                 g. number of blocks
                 h. time of last access
                 i. time of last modificati
-Date: 29th Aug, 2024.
+Date: 22th Aug, 2024.
 ============================================================================
 */
 #include <stdio.h>

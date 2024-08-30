@@ -3,7 +3,7 @@
 Name : 6.c
 Author : Abhishek Sahu
 Description : Write a program to take input from STDIN and display on STDOUT. Use only read/write system calls
-Date: 29th Aug, 2024.
+Date: 22th Aug, 2024.
 ============================================================================
 */
 #include<stdio.h>
